@@ -1,0 +1,92 @@
+# DAAD study-guide (English, fos 1-226) = 287 programmes. CS-related, public, NOT in v24 → to verify
+9024 Deggendorf Applied AI for Digital Production Mgmt MEng
+11006 Bonn Artificial Intelligence
+9890 Furtwangen AI&DS for Digital Business Mgmt (Freiburg)
+11083 Neu-Ulm AI & Health Informatics
+10362 THI Automotive Production Eng & AI MEng
+9016 Coburg Autonomous Driving
+11258 TUHH Business Analytics & AI
+9043 Marburg Business Informatics
+7054 Emden BI & Data Analytics
+10334 Osnabrück Cognitive Computing
+4581 Ulm Cognitive Systems
+10527 TU Braunschweig CoDaS
+3727 FAU Computational Engineering
+3847 RUB Computational Engineering
+3591 TUM CSE
+3685 TU BS CSE
+5226 RWTH Computer Engineering
+9012 Nordhausen Computer Eng for IoT
+8305 Potsdam Computer Science
+7639 Tübingen Computer Science
+10588 Konstanz COSIB
+7711 Saarland Cybersecurity
+4713 TUM Data Engineering & Analytics
+7658 Münster Data Science
+8285 Kiel UAS Data Science
+9040 TUHH Data Science
+6916 Chemnitz Data Science
+9965 Augsburg Data Science
+10360 KU Eichstätt-Ingolstadt Data Science
+9046 Marburg Data Science
+10469 Ilmenau Data Science
+6296 Saarland DSAI
+9906 Oldenburg DS & ML
+4427 Magdeburg Digital Engineering
+6924 Koblenz E-Government
+3923 Saarland Embedded Systems
+11089 Hildesheim Future Analytics AI & Audio
+10332 H-BRS Game Technologies
+9892 UTN Human & AI
+4686 Siegen HCI
+4660 Weimar HCI
+4517 TUM Games Engineering
+3747 TUHH Information & Communication Systems
+9595 TUM Information Engineering
+10359 TUM Information Systems
+3632 OWL Information Technology
+3677 Stuttgart INFOTECH
+11040 THI Intelligent Aerial Systems
+10372 Heilbronn Intelligent Mechatronic Systems
+4084 FAU International Information Systems
+3739 Saarland Language Science & Technology
+4411 FH SWF IMIS
+9585 Bremen MIS
+9198 RWTH Applied Health Informatics
+4258 TU Darmstadt AI & ML
+7784 Passau AI Engineering
+3979 Ilmenau Communications & Signal Processing
+7055 FU Computational Sciences
+5625 Paderborn Computer Engineering
+10672 Passau Information Systems
+4001 Augsburg Software Engineering
+4513 FH Dortmund Embedded Systems Engineering
+10558 Augsburg Math & CS
+4758 Saarland Math & CS
+10470 Anhalt Media Engineering
+11050 Regensburg Media Informatics
+4634 Saarland Media Informatics
+6104 Tübingen Medical Informatics
+11074 Augsburg Medical Information Sciences
+7691 Deggendorf AI for Smart Sensors & Actuators MEng
+5378 Deggendorf Mechatronic & CPS MEng
+9921 Bonn Mobile Robotics
+4874 RWTH Data Analytics & Decision Science
+4600 Deggendorf Digital Health
+3728 RWTH HCIS
+6399 Deggendorf Life Science Informatics
+9583 Bayreuth Philosophy & CS
+4147 Ilmenau Research in Media Eng
+9838 Deggendorf Robotics MEng
+4842 Saarland Graduate School CS
+5244 Bayreuth Scientific Computing
+11093 Erfurt Software Engineering
+3841 RPTU SE for Embedded Systems (DISC)
+6140 THI UX Design
+7670 Magdeburg Visual Computing
+3827 Saarland Visual Computing
+4655 Chemnitz Web Engineering
+9941 Hof AI-Driven SCM
+10532 Aalen MEng Electrical Engineering
+8944 Oldenburg Digitalised Energy Systems
+4632 FH Wedel IT Engineering
