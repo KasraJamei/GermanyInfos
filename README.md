@@ -22,7 +22,7 @@ BSc Computer Engineering، IAU Tehran North (anabin **H+**) · معدل **17.43/
 
 ## ساختار ریپو
 ```
-pdf/            راهنماها (آلمان v25…v30، کانادا، اروپا-علوم انسانی)
+pdf/            راهنماها (آلمان v25…v31، هلند v1، کانادا، اروپا-علوم انسانی)
 applications/   STATUS.md + records/ (اسکرین‌شات/PDF فرم‌های ارسال‌شده: Bonn، RPTU، THUAS…)
 profile/        APPLICANT_PROFILE.md · FORM_ANSWERS.md
 documents/      00_ready_to_upload … 09_letters_and_forms (مدارک)
