@@ -5,7 +5,7 @@
 ## از کجا شروع کنم؟
 | می‌خواهم… | برو سراغ |
 |---|---|
-| بدانم الان چه بزنم و مهلت‌ها چیست | [`pdf/Germany_MSc_CS_Guide_Kasra_v30.pdf`](pdf/Germany_MSc_CS_Guide_Kasra_v30.pdf) (بخش الف/ب + چک‌لیست) |
+| بدانم الان چه بزنم و مهلت‌ها چیست | [`pdf/Germany_MSc_CS_Guide_Kasra_v31.pdf`](pdf/Germany_MSc_CS_Guide_Kasra_v31.pdf) (بخش الف/ب + چک‌لیست) |
 | وضعیت درخواست‌هایی که زده‌ام + شماره‌ها | [`applications/STATUS.md`](applications/STATUS.md) |
 | یک فرم جدید پر کنم (آدرس، معدل، تبدیل نمره، زبان، سابقه کار…) | [`profile/APPLICANT_PROFILE.md`](profile/APPLICANT_PROFILE.md) |
 | جواب‌های آماده‌ی سؤال‌های تکراری، Comment، تقسیم درس‌ها به حوزه‌ها | [`profile/FORM_ANSWERS.md`](profile/FORM_ANSWERS.md) |
@@ -34,11 +34,12 @@ ALL-KNOWN-INFO-FULL.md   برون‌بری حافظه‌ی Claude (۱۱ نوام
 ```
 
 ## تاریخچه‌ی راهنما
+- **v31 (۲۳ نوامبر):** سبد نهایی uni-assist (€255)، مسیر TH OWL = uni-assist، TU Dortmund DS ذخیره برای بعد.
 - **v30 (۲۳ نوامبر):** تطبیق کامل با فهرست اعضای uni-assist + مرور ۱۶۰۴ ارشد انگلیسی DAAD؛ ۲۲ برنامه‌ی تازه؛ اصلاح Paderborn CS/CE (معافیت GRE)، TH OWL، Dresden؛ TU Darmstadt به «می‌زنم».
 - v29 (۲۱ نوامبر): شرط آلمانی برنامه‌های uni-assist + دور Computer Engineering/Embedded.
 - v28 (۲۱ نوامبر)، v25–v27 (۱۱–۲۰ نوامبر): ادغام بررسی‌های رسمی.
 
 ## بازسازی PDF
 ```bash
-cd build && python3 build30.py && node render30.js   # body PDF؛ سپس ۳ صفحه‌ی شهرها از v29 اضافه می‌شود
+cd build && python3 build31.py && node render31.js   # body PDF؛ سپس ۳ صفحه‌ی شهرها از v29 اضافه می‌شود
 ```
