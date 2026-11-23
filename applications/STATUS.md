@@ -1,9 +1,9 @@
 # وضعیت همه‌ی درخواست‌ها — ۲۳ نوامبر ۲۰۲۶
 
-> منبع اصلی تحلیل و شانس هر برنامه: `pdf/Germany_MSc_CS_Guide_Kasra_v31.pdf`. این فایل فقط «کجا چه کار کرده‌ای» است.
+> منبع اصلی تحلیل و شانس هر برنامه: `pdf/Germany_MSc_CS_Guide_Kasra_v32.pdf`. این فایل فقط «کجا چه کار کرده‌ای» است.
 > رمزها اینجا نیستند (عمداً). شماره‌ها و نام کاربری‌ها هستند.
 
-## ✅ ارسال‌شده — آلمان (۱۲)
+## ✅ ارسال‌شده — آلمان (۱۳)
 | # | برنامه | ترم | پورتال | شماره / وضعیت | تاریخ |
 |---|---|---|---|---|---|
 | 1 | Göttingen — Applied Computer Science (Application-Oriented Systems Dev.) | تابستان ۲۰۲۷ | مستقیم | ارسال + آزمون آنلاین (۲۴ اکتبر) | ۱۴–۱۵ اکتبر |
@@ -18,6 +18,7 @@
 | 10 | Duisburg-Essen — Communications Engineering (ISE) | تابستان ۲۰۲۷ | پورتال UDE | 713515-02 | ۷ نوامبر |
 | 11 | Stuttgart — Computer Science (in English) | زمستان ۲۰۲۷/۲۸ | C@MPUS | — | — |
 | 12 | RUB Bochum — Computer Science | زمستان ۲۰۲۷/۲۸ | apply.cs.rub.de / hio | — | ۲۰ نوامبر |
+| 13 | Hildesheim — Future Analytics: AI & Audio Worlds | تابستان ۲۰۲۷ | ismll | ارسال؛ مدارک اضافه: `documents/09_letters_and_forms/Kasra_Jamei_Hildesheim_Additional_Documents.pdf` · ☐ سابقه‌ی موسیقی را به CV اضافه کن | ۲۳ نوامبر |
 
 ## 🟡 در جریان
 | برنامه | وضعیت | قدم بعدی | مهلت |
@@ -41,7 +42,7 @@
 ## ⏭ مهلت‌های پیش رو (خلاصه‌ی چک‌لیست v30)
 - **۳۰ نوامبر:** Rostock CSI · Paderborn CS (+ CE / ESE اختیاری) · Rostock EE اختیاری — همه uni-assist
 - **۱ دسامبر:** TH OWL IT (uni-assist، مهلت امن) · TH Augsburg IMS اختیاری · TUHH precheck · TU Darmstadt پورتال باز
-- **۱۵ دسامبر:** Passau CS (uni-assist) · Hildesheim Future Analytics (مستقیم)
+- **۱۵ دسامبر:** Passau CS (uni-assist) · ~~Hildesheim Future Analytics~~ ✅ ارسال شد
 - **۳۱ دسامبر:** Marburg CS (uni-assist، ⚠ تأیید مهلت)
 - **۱۵ ژانویه:** TU Darmstadt (پاکت) · RUB EEIT Communication Systems · HS Bremen Electronics · TU Dortmund DS (💾 ذخیره — بعد از جواب Bonn تصمیم) · Anhalt ECE · TUHH CS · Saarland · Chemnitz Web Eng. · Kempten EE · Stuttgart EE (زمستان)
 - **۱ مارس:** Augsburg DS / Math & CS

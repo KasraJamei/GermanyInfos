@@ -16,13 +16,13 @@
 BSc Computer Engineering، IAU Tehran North (anabin **H+**) · معدل **17.43/20** (آلمانی **1.77**) · ۱۴۴ واحد · IELTS **7.0** (L8.5 R6.5 S7 W6) · آلمانی B1 (گواهی دوره) · بدون GRE · ~۲۳ ماه کار فرانت‌اند (Angular) · ۳ توصیه‌نامه · پروژه‌ی پایانی ML for Cyberattack Detection (۲۰/۲۰).
 
 ## وضعیت کلی (۲۳ نوامبر)
-- **ارسال‌شده:** ۱۲ برنامه در آلمان (Göttingen ×۲، Bonn ×۲ [Cyber Security رد]، Hildesheim ×۲، Freiburg ×۲، UDE ×۲، Stuttgart CS، RUB CS) + Saxion و THUAS در هلند.
+- **ارسال‌شده:** ۱۳ برنامه در آلمان (Göttingen ×۲، Bonn ×۲ [Cyber Security رد]، Hildesheim ×۳، Freiburg ×۲، UDE ×۲، Stuttgart CS، RUB CS) + Saxion و THUAS در هلند.
 - **این هفته (۳۰ نوامبر):** uni-assist — Rostock CSI، Paderborn CS (+CE)، Marburg؛ Dresden پیشنهاد حذف. ۱ دسامبر TH OWL.
 - **بعدی:** TU Darmstadt CS (پاکت کاغذی تا ۱۵ ژانویه برسد)، RUB EEIT، HS Bremen، Passau، TU Dortmund DS، Augsburg DS.
 
 ## ساختار ریپو
 ```
-pdf/            راهنماها (آلمان v25…v31، هلند v1، کانادا، اروپا-علوم انسانی)
+pdf/            راهنماها (آلمان v25…v32، هلند v1، کانادا، اروپا-علوم انسانی)
 applications/   STATUS.md + records/ (اسکرین‌شات/PDF فرم‌های ارسال‌شده: Bonn، RPTU، THUAS…)
 profile/        APPLICANT_PROFILE.md · FORM_ANSWERS.md
 documents/      00_ready_to_upload … 09_letters_and_forms (مدارک)
