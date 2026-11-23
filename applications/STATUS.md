@@ -22,7 +22,8 @@
 ## 🟡 در جریان
 | برنامه | وضعیت | قدم بعدی | مهلت |
 |---|---|---|---|
-| **uni-assist** (حساب **3710713**، jameikasra2002@gmail.com) | ۱۴ مدرک آپلود شد؛ سبد: Dresden CS (€75)، Rostock CSI، Marburg CS، Paderborn CE (€30 هرکدام) = €165؛ سؤال‌های همه جواب داده شد؛ فرم Self-Disclosure Marburg پر شد | Paderborn CS اضافه، Dresden حذف (پیشنهاد)، پرداخت، ارسال | **۳۰ نوامبر** |
+| **uni-assist** (حساب **3710713**، jameikasra2002@gmail.com) | ۱۴ مدرک آپلود شد؛ سبد نهایی (۲۳ نوامبر): Rostock CSI، Paderborn CS، Paderborn CE، Marburg CS، Passau CS، Kiel CS، **TH OWL IT** (تأیید شد: غیراروپایی فقط از uni-assist، نه KIS) = **€255**؛ Dresden حذف | سؤال‌های Passau (لینک پروژه + PDF self-indication)، پرداخت، ارسال | **۳۰ نوامبر** (TH OWL زودترین مهلت ۱ دسامبر) |
+| 💾 **TU Dortmund — Data Science** (uni-assist، +€30) | **ذخیره برای بعد** — فعلاً نزن | بعد از جواب Bonn (~۱۵ دسامبر) تصمیم بگیر؛ اگر Bonn قبول نشد، اضافه کن. ⚠ آمار ~۸ CP مرزی؛ گزارش آماری + module handbook | **۱۵ ژانویه** |
 | TU Darmstadt — CS | تصمیم ۲۳ نوامبر: می‌زنی | پورتال ۱ دسامبر باز؛ پاکت کاغذی با آشنا به Karolinenplatz 5 | **۱۵ ژانویه (رسیدن)** |
 | Deggendorf — Applied CS (Primuss) | پر شده؛ €60 پرداخت نشده | مهلت ۱۵ نوامبر گذشت | — |
 | Aalen — ML & Data Analytics | پیش‌نویس؛ VPD لازم | احتمالاً دیر | ۱۵ دسامبر |
@@ -42,6 +43,6 @@
 - **۱ دسامبر:** TH OWL IT (uni-assist، مهلت امن) · TH Augsburg IMS اختیاری · TUHH precheck · TU Darmstadt پورتال باز
 - **۱۵ دسامبر:** Passau CS (uni-assist) · Hildesheim Future Analytics (مستقیم)
 - **۳۱ دسامبر:** Marburg CS (uni-assist، ⚠ تأیید مهلت)
-- **۱۵ ژانویه:** TU Darmstadt (پاکت) · RUB EEIT Communication Systems · HS Bremen Electronics · TU Dortmund DS · Anhalt ECE · TUHH CS · Saarland · Chemnitz Web Eng. · Kempten EE · Stuttgart EE (زمستان)
+- **۱۵ ژانویه:** TU Darmstadt (پاکت) · RUB EEIT Communication Systems · HS Bremen Electronics · TU Dortmund DS (💾 ذخیره — بعد از جواب Bonn تصمیم) · Anhalt ECE · TUHH CS · Saarland · Chemnitz Web Eng. · Kempten EE · Stuttgart EE (زمستان)
 - **۱ مارس:** Augsburg DS / Math & CS
 - **ژانویه–آوریل:** VPDها برای برنامه‌های زمستان (HAW Hamburg، TH Augsburg EE، THI، Aalen، Heilbronn)
