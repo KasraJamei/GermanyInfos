@@ -36,7 +36,7 @@
 | Studielink | — | Studielink **2607182** |
 | Saxion — ICT Software Engineering (Deventer، سپتامبر ۲۰۲۷) | OSIRIS + Questionnaire ارسال شد؛ منتظر تصمیم | student no. **00614427** (login 614427) |
 | THUAS — Data Driven Business (سپتامبر ۲۰۲۷) | OSIRIS + مدارک ارسال (۱ نوامبر) | **27012972** (27012972@student.hhs.nl) |
-| Fontys — Applied IT | پورتفولیو تا ۱۳ نوامبر به fontysict-master@fontys.nl | **6293034** |
+| Fontys — Applied IT | پورتفولیو فرستاده شد → **دعوت به مصاحبه: پنجشنبه ۳ دسامبر، ۱۶:۳۰–۱۶:۵۰ به وقت تهران (≈ ۱۴:۰۰ هلند)، Teams** (Hans Konings + Mehrzad Verdizadegan) · ☐ RSVP «Yes» · ☐ آمادگی مصاحبه | **6293034** |
 | TU/e — CSE | ❌ رها شد (ترجمه‌ی انگلیسی نداشتی) | case M26110569 |
 
 ## ⏭ مهلت‌های پیش رو (خلاصه‌ی چک‌لیست v30)
