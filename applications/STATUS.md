@@ -47,3 +47,12 @@
 - **۱۵ ژانویه:** TU Darmstadt (پاکت) · RUB EEIT Communication Systems · HS Bremen Electronics · TU Dortmund DS (💾 ذخیره — بعد از جواب Bonn تصمیم) · Anhalt ECE · TUHH CS · Saarland · Chemnitz Web Eng. · Kempten EE · Stuttgart EE (زمستان)
 - **۱ مارس:** Augsburg DS / Math & CS
 - **ژانویه–آوریل:** VPDها برای برنامه‌های زمستان (HAW Hamburg، TH Augsburg EE، THI، Aalen، Heilbronn)
+
+## 🆕 از گزارش شانس‌ها (۲۸ نوامبر) — `pdf/Germany_Chances_Summer_Winter_2027_Kasra_v1.pdf`
+- ⚠ Paderborn CS: معافیت GRE فقط با معدل آلمانی «زیر ۱٫۸» (تو ۱٫۷۷ — مرزی)؛ Paderborn CE: «CGPA خیلی خوب»
+- ⚠ آیلتس ۲۷ مه ۲۰۲۷ دو ساله می‌شود → همه‌ی درخواست‌های زمستان قبل از آن
+- ⚠ GRE برای ساکنان ایران از ۸ سپتامبر ۲۰۲۶ متوقف (ETS)
+- ☐ ÖSD تهران (Andishe Parsian، osd@andisheparsian.com): نوبت بعدی ZA2/ZB1 → باز شدن Fulda، Hof ARCS، Chemnitz ESY/ICS/ARC
+- ☐ تا ۱۵ ژانویه: Stuttgart INFOTECH (زمستان ۲۰۲۷/۲۸، C@MPUS) · تابستان: Chemnitz Web Eng، BTU AI، Weimar CSDM/HCI، Anhalt ECE، HSBI DS
+- ☐ تا ۱۵ فوریه: H-BRS Autonomous Systems (زمستان، uni-assist)
+- ☐ ۱ مارس–۳۰ آوریل: TUHH DS/ICS، Bremen AIIS، TU BS DS، Heidelberg DCS، Siegen CS، Oldenburg DS&ML، TU Dresden CS، Rostock CSI، …
