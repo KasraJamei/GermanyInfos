@@ -56,3 +56,9 @@
 - ☐ تا ۱۵ ژانویه: Stuttgart INFOTECH (زمستان ۲۰۲۷/۲۸، C@MPUS) · تابستان: Chemnitz Web Eng، BTU AI، Weimar CSDM/HCI، Anhalt ECE، HSBI DS
 - ☐ تا ۱۵ فوریه: H-BRS Autonomous Systems (زمستان، uni-assist)
 - ☐ ۱ مارس–۳۰ آوریل: TUHH DS/ICS، Bremen AIIS، TU BS DS، Heidelberg DCS، Siegen CS، Oldenburg DS&ML، TU Dresden CS، Rostock CSI، …
+
+## 🇨🇦 کانادا — گزارش شانس (۲۸ نوامبر) — `pdf/Canada_MSc_Chances_Fall2027_Winter2028_Kasra_v1.pdf`
+- ❌ بسته به‌خاطر نوشتن ۶: Toronto (MSc برای خارجی بسته)، UBC ونکوور، Alberta، Calgary، USask، uOttawa
+- ☐ ۱ دسامبر: York MSc CS (کمک‌هزینه ۴۷٬۴۳۷)، Memorial، (Waterloo)
+- ☐ ۱۵ دسامبر: UVic · ۱۵ ژانویه: Queen's · ۱۹ ژانویه: SFU · ۱۵ فوریه: Regina · ۱ مارس: Concordia، Guelph · ۱ آوریل: Dalhousie · ۱۵ آوریل: Windsor
+- ☐ ایمیل به استادها (Guelph، UBCO، Regina، Queen's)
